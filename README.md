@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and TypeScript<br>
 
-<br>👨‍💻 All of my projects are available at https://github.com/aradhyasaxena99<br><br>📝 I regularly solving problems on https://leetcode.com/u/aradhyasaxena_cs22//<br><br>💬 Ask me about Javascript, React and Gsap<br><br>📫 How to reach me https://www.linkedin.com/in/aradhya-saxena-1365602a0/<br><br>📄 Know about my experiences https://www.linkedin.com/in/abhishekpandey-cs/
+<br>👨‍💻 All of my projects are available at https://github.com/aradhyasaxena99<br><br>📝 I regularly solving problems on https://leetcode.com/u/aradhyasaxena_cs22//<br><br>💬 Ask me about Javascript, React and Gsap<br><br>📫 How to reach me https://www.linkedin.com/in/aradhya-saxena-1365602a0/<br><br>📄 Know about my experiences https://www.linkedin.com/in/aradhya-saxena-1365602a0/
 
 ## 🌐 Socials:
 
